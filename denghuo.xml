@@ -21,6 +21,14 @@
 						<key>url</key>
 						<string>http://www.zhimapp.com/app/iphone/images/480.png</string>
 					</dict>
+					<dict>
+						<key>kind</key>
+						<string>display-image</string>
+						<key>needs-shine</key>
+						<true />
+						<key>url</key>
+						<string>http://www.zhimapp.com/app/iphone/images/Icon-72.png</string>
+					</dict>
 				</array>
 				<key>metadata</key>
 				<dict>
