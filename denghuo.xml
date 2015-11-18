@@ -19,7 +19,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://www.zhimapp.com/app/iphone/images/icon180.png</string>
+						<string>http://www.zhimapp.com/app/iphone/images/Icon-60.png</string>
 					</dict>
 					<dict>
 						<key>kind</key>
@@ -27,7 +27,7 @@
 						<key>needs-shine</key>
 						<true />
 						<key>url</key>
-						<string>http://www.zhimapp.com/app/iphone/images/icon180.png</string>
+						<string>http://www.zhimapp.com/app/iphone/images/Icon-60.png</string>
 					</dict>
 				</array>
 				<key>metadata</key>
